@@ -1,0 +1,5 @@
+SYNCQT.HEADER_FILES = ../../include/QtArchivers/qtarchivers.h
+SYNCQT.HEADER_CLASSES = ../../include/QtArchivers/QtArchivers
+SYNCQT.PRIVATE_HEADER_FILES =
+SYNCQT.QPA_HEADER_FILES = 
+SYNCQT.INJECTIONS = 
